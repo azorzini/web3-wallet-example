@@ -1,3 +1,6 @@
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6eab290f-b376-4b2e-b326-7c645e35624a" />
+
+
 # Web3 Dashboard
 
 This project is a simple Web3 dashboard that allows users to connect their Ethereum wallet (e.g., MetaMask) and view their account balance, network, gas price, and connection status. It leverages modern Web3 libraries to facilitate wallet connections and blockchain interactions.
